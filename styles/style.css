@@ -1,0 +1,12 @@
+.logocolor {
+    background-color: #198754 !important;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+a:hover {
+    color: green;
+  }
